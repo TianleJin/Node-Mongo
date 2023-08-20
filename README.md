@@ -1,2 +1,1 @@
-# Node-Mongo
-Exercise to learn Mongo
+# node-mongo
